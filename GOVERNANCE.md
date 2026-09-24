@@ -1,7 +1,7 @@
 # Governance
 
 `standard_schema` is maintained by the
-[Concepta GitHub organization](https://github.com/conceptadev).
+[Concepta GitHub organization](https://github.com/btwld).
 
 ## Decision process
 

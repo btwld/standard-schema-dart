@@ -13,7 +13,7 @@ publishing can be enabled from its Admin tab.
 
 Configure:
 
-- GitHub repository: `conceptadev/standard-schema-dart`
+- GitHub repository: `btwld/standard-schema-dart`
 - Tag pattern: `v{{version}}`
 
 No pub.dev token is stored in GitHub. The official Dart publishing workflow
