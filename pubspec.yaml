@@ -3,9 +3,9 @@ description: >-
   Vendor-neutral Standard Schema contracts for Dart validators and JSON Schema
   converters.
 version: 0.0.1
-repository: https://github.com/conceptadev/standard-schema-dart
-issue_tracker: https://github.com/conceptadev/standard-schema-dart/issues
-homepage: https://github.com/conceptadev/standard-schema-dart
+repository: https://github.com/btwld/standard-schema-dart
+issue_tracker: https://github.com/btwld/standard-schema-dart/issues
+homepage: https://github.com/btwld/standard-schema-dart
 topics:
   - validation
   - schema

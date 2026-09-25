@@ -1,6 +1,6 @@
 # standard_schema
 
-[![CI](https://github.com/conceptadev/standard-schema-dart/actions/workflows/ci.yml/badge.svg)](https://github.com/conceptadev/standard-schema-dart/actions/workflows/ci.yml)
+[![CI](https://github.com/btwld/standard-schema-dart/actions/workflows/ci.yml/badge.svg)](https://github.com/btwld/standard-schema-dart/actions/workflows/ci.yml)
 [![pub package](https://img.shields.io/pub/v/standard_schema.svg)](https://pub.dev/packages/standard_schema)
 [![license](https://img.shields.io/badge/license-BSD--3--Clause-blue.svg)](LICENSE)
 
@@ -9,7 +9,7 @@ converters.
 
 `standard_schema` is an independent Dart port of the contract family described
 by [standardschema.dev](https://standardschema.dev). It is maintained by
-[Concepta](https://github.com/conceptadev) and is not an official package of,
+[Concepta](https://github.com/btwld) and is not an official package of,
 or endorsed by, the upstream Standard Schema project.
 
 ## The problem it solves
